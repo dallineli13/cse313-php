@@ -12,6 +12,7 @@
         <h2>Golf Club Selection</h2>
     </header>
     <main>
+    <?php echo date("D M d, Y G:i a"); ?>
         <p>Hover over the image to input a yardage. We will then calculate the club that most professional golfers would use to get the ball close! </p>
         <div class='wrap'>
             <img src="images/golf.jpg">
